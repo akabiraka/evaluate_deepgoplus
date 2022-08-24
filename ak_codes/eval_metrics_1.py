@@ -1,5 +1,5 @@
 import sys
-sys.path.append("../deepgoplus")
+sys.path.append("../evaluate_deepgoplus")
 
 import numpy as np
 import pandas as pd

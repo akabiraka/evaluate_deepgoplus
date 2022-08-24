@@ -1,5 +1,5 @@
 import sys
-sys.path.append("../deepgoplus")
+sys.path.append("../evaluate_deepgoplus")
 
 import pickle
   
